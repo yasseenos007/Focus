@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for FOCUS	</title>
+	<atom:link href="https://stayfocusedbro.netlify.app/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stayfocusedbro.netlify.app</link>
+	<description>Discipline is the key</description>
+	<lastBuildDate>Sun, 15 Dec 2024 01:55:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>
+		Comment on Roronoa Zoro by yasseenoss		</title>
+		<link>https://stayfocusedbro.netlify.app/anime/roronoa-zoro/#comment-3</link>
+
+		<dc:creator><![CDATA[yasseenoss]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 01:55:07 +0000</pubDate>
+		<guid isPermaLink="false">https://stayfocusedbro.netlify.app/?p=9#comment-3</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://stayfocusedbro.netlify.app/anime/roronoa-zoro/#comment-2&quot;&gt;Yass&lt;/a&gt;.
+
+;(]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://stayfocusedbro.netlify.app/anime/roronoa-zoro/#comment-2">Yass</a>.</p>
+<p>;(</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Roronoa Zoro by Yass		</title>
+		<link>https://stayfocusedbro.netlify.app/anime/roronoa-zoro/#comment-2</link>
+
+		<dc:creator><![CDATA[Yass]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 01:54:18 +0000</pubDate>
+		<guid isPermaLink="false">https://stayfocusedbro.netlify.app/?p=9#comment-2</guid>
+
+					<description><![CDATA[Nothing Happend ;(]]></description>
+			<content:encoded><![CDATA[<p>Nothing Happend ;(</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
